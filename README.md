@@ -17,5 +17,5 @@ Cypress using Page Object Model
 Upon merge to the main branch, the automation tests will run
 
 ## What I would do with more time
-1. Like with the Playwright project, I would add specifc test attributes to all the elements on your site to reduce test flakiness and increase the speed that automation tests can be created to increase cover of your website.
+1. Like with the Playwright project, I would add specifc test attributes to all the elements on your site to reduce test flakiness and increase the speed that automation tests can be created to increase coverage of the website.
 2. Create more generic Page Objects for navigation, buttons etc to make them easily adoptable into each test therefore speeding up developement.
